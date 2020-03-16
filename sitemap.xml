@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jvansan.me/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jvansan.me/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -43,48 +28,13 @@
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jvansan.me/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.jvansan.me/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.jvansan.me/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -100,6 +50,331 @@
   <url>
     <loc>https://www.jvansan.me/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication_types/2/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/alex-hua/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/alison-h.-hughes/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/amrit-leen-singh/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/anam-f-shaikh/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/ashley-c-sisto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/aswad-khadilkar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/barbara-r-terlouw/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/catherine-s-mccaughey/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/chen-chang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/darryl-wilson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/dasha-ishakova/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/david-a-delgadillo/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/dennis-y-liu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/derek-bunkso/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/duy-a-vo/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/f-p-jake-haeckl/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/fausto-carnevale-neto/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/george-lund/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/gregoire-jacob/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/hernando-g-suarez-duran/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jasmine-s-paula/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jeffrey-a-van-santen/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jessica-l-cleary-little/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jocelyn-m-macho/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jorge-c-navarro-munoz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/joseph-m-egan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jung-ho-lee/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/justin-j-j-van-der-hooft/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/jerome-collemare/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/kai-blin/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/katherine-e-zink/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/katherine-r-duncan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/laia-castano-espriu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/laura-m-sanchez/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/louise-k-charkoudian/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/marcy-j-balunas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/marnix-h-medema/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/marnix-h.-madema/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/melissa-m-galey/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/mercia-valentine/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication/jvansan-mibig-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/mingxun-wang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/mohammad-alanjary/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/nelly-selem-mojica/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/nicole-legrow/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/pieter-c-dorrestein/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/ram-p-neupane/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/roger-g-linington/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/samuel-c-epstein/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/sanghoon-lee/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/satria-a-kautsar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/serina-l-robinson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/simon-shaw/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/sylvia-soldatou/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication/jvansan-npatlas-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/tilmann-weber/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/timothy-j-odonnell/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/trevor-n-clark/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/tuan-anh-tran/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/victor-aniebok/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/victoria-pascal-andreu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/authors/vittorio-tracanna/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -128,6 +403,11 @@
   </url>
   
   <url>
+    <loc>https://www.jvansan.me/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.jvansan.me/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -148,28 +428,33 @@
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://www.jvansan.me/publication/jvansan-dmso-ctc-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://www.jvansan.me/authors/gino-a-dilabio/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://www.jvansan.me/authors/massimo-bietti/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://www.jvansan.me/authors/michela-salamone/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.jvansan.me/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://www.jvansan.me/authors/shaqil-rahemtulla/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.jvansan.me/publication/jvansan-dcp-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
